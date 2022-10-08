@@ -1,0 +1,5 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://Eljahon:eljahon1315@cloud.bn4w8jj.mongodb.net/Cloud?retryWrites=true&w=majority",
+  "secriteKey": "mert-stack-key"
+}
